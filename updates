@@ -1,2 +1,2 @@
-sudo apt-get updates
-sudo apt full-upgrade -y
+sudo apt-get updates #refrseh package library
+sudo apt full-upgrade -y #perform all available updates
